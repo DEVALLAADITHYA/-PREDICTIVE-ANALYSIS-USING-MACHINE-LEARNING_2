@@ -13,6 +13,10 @@
 **MENTOR NAME**: NEELA SANTHOSH
 
 #DESCRIPTION OF TASK: 
+
+ PREDICTIVE ANALYSISUSING  MACHINE LEARNING:
+
+
 Importing Libraries and Tools: The notebook begins by importing essential Python libraries, such as:
 
 pandas and numpy for data manipulation and numerical operations.
@@ -47,13 +51,13 @@ Model Evaluation: Performance metrics such as accuracy, precision, recall, F1-sc
 
 Results and Insights: The findings are summarized, highlighting the best-performing model and its significance. Insights gained from the analysis are discussed in a clear and actionable manner.
 
+![image](https://github.com/user-attachments/assets/50542067-240b-40b5-80b4-3a5fab3ba470)
+
+
+
 
 
 **OUTPUT**:
-
-
-
-![image](https://github.com/user-attachments/assets/50542067-240b-40b5-80b4-3a5fab3ba470)
 
 
 ![image](https://github.com/user-attachments/assets/3b704e67-dfec-4e9a-a2f5-05f772b3fe4f)
